@@ -35,3 +35,6 @@ With NVM
 nvm run serve
 ```
 
+Project source:
+https://developer.here.com/tutorials/how-to-implement-a-web-map-using-vuejs/
+
