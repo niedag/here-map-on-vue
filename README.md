@@ -22,4 +22,16 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# here-map-on-vue
+
+
+### To Run the Vue Server
+With Yarn 
+```
+yarn run serve 
+```
+
+With NVM
+```
+nvm run serve
+```
+
