@@ -4,7 +4,7 @@
 ```
 yarn install
 ```
-For installing the Vue CLI using Yarn
+For installing the Vue CLI to all users using Yarn
 ```
 yarn global add @vue/cli
 ```
