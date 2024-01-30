@@ -15,7 +15,7 @@
     data() {
       return {
         platform: null,
-        apikey: "{Replace this with HERE API KEY}"
+        apikey: "mgUpX5kkB8LXZVArFjylcuSvvo4xhc9Zfd5wVbe6taM"
         // You can get the API KEY from developer.here.com
       };
     },
