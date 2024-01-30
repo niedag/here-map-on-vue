@@ -28,5 +28,6 @@ Project source:
 https://developer.here.com/tutorials/how-to-implement-a-web-map-using-vuejs/
 
 If you are running this remotely or via a GitHub codespace, the project needs to be configured for connection over HTTPS (because it's not a local connection). 
-- Install Web Socket libraries 
-''' yarn add socket.io-client '''
+- Install Web Socket libraries
+
+``` yarn add socket.io-client ```
